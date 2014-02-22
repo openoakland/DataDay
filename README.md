@@ -41,3 +41,7 @@ Map crimes linked to perpetrators to determine overall crime vectors and aid pol
 9. Building Permits Database
 =========================
 Create open access to the database of building permits. [Read more](https://github.com/openoakland/DataDay/issues/9)
+
+10. Scraping Oakland Web Sites Training
+========================
+Max will lead a workshop that will show participants how to scrape content from public websites- still a critical tool for liberating public data! [Read more](https://github.com/openoakland/DataDay/issues/11)
