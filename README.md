@@ -46,8 +46,6 @@ Create open access to the database of building permits. [Read more](https://gith
 ========================
 Max will lead a workshop that will show participants how to scrape content from public websites- still a critical tool for liberating public data! [Read more](https://github.com/openoakland/DataDay/issues/11)
 
-11. Buildings at risk of collapsing in an earthquake ("soft-story" buildings)
-=========
-
-[Dave](https://twitter.com/allafarce) is working on analyzing unstructured data related to "soft-story" buildings which are high-risk of collapse in an earthquake. [Read more here!](https://github.com/openoakland/DataDay/issues/12)
-
+11. Open Disclosure - Bringing Oakland's Campaign Money to Light
+========================
+Create a campaiagn finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. [Read more](https://github.com/openoakland/opendisclosure)
