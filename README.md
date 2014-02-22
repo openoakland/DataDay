@@ -48,4 +48,4 @@ Max will lead a workshop that will show participants how to scrape content from 
 
 11. Open Disclosure - Bringing Oakland's Campaign Money to Light
 ========================
-Create a campaiagn finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. [Read more](https://github.com/openoakland/opendisclosure)
+Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. [Read more](https://github.com/openoakland/opendisclosure)
