@@ -24,7 +24,7 @@ Map out the network relationships of non-profits in the Bay Area in the hopes of
 
 5. Web-based Mapping Tool Focused for Vacant Land in Oakland
 =========================
-Start putting vacant land in Oakland to good use by making it available for urban agriculture. The first step is to map all of the vacant land. [Read more](https://github.com/openoakland/DataDay/issues/5)
+Start putting vacant land in Oakland to good use by making it available for urban agriculture. The first step is to map all of the vacant land. [Read more](https://github.com/openoakland/DataDay/issues/5) [Take a look at the web-based map we created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
 
 6. Oakland Unified Staff Data
 =========================
