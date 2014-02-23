@@ -26,6 +26,8 @@ Map out the network relationships of non-profits in the Bay Area in the hopes of
 =========================
 Start putting vacant land in Oakland to good use by making it available for urban agriculture. The first step is to map all of the vacant land. [Read more](https://github.com/openoakland/DataDay/issues/5)
 
+The day's resultant project can be found [here](http://oakland-city-farm-share.github.io/vacant-lots/) and the source can be viewed [here](https://github.com/oakland-city-farm-share/vacant-lots).
+
 6. Oakland Unified Staff Data
 =========================
 Delve deep in to staffing data for OUSD to help make more educated decisions on staffing needs. [Read more](https://github.com/openoakland/DataDay/issues/6)
